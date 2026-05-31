@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentpalculate",
+        "uuid": 18797220,
+        "checksum": "dqogc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
